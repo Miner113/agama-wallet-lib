@@ -50,7 +50,7 @@
     "prepublish": "npm run build"
   },
   "devDependencies": {
-    "@babel/cli": "^7.14.8",
+    "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
     "browserify": "~16.2.3",
