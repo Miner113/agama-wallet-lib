@@ -36,6 +36,7 @@ const _komodoAssetChains = [
   'CHAIN',
   'ZILLA',
   'VRSC',
+  'GRMS',
 ];
 
 const _komodoCoins = _komodoAssetChains.concat([
@@ -89,6 +90,7 @@ const explorerList = {
   VOTE2018: 'http://88.99.226.252',
   DSEC: 'https://dsec.kmdexplorer.io',
   VRSC: 'https://vrsc.kmdexplorer.io',
+  GRMS: 'https://explorer.grms.pw',
   QTUM: 'https://explorer.qtum.org',
   DNR: 'http://denarius.name',
   LTC: 'https://live.blockcypher.com/ltc/tx/',
