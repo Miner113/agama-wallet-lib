@@ -511,6 +511,13 @@ const electrumServers = {
       'electrum3.cipig.net:10077:tcp'
     ],
   },
+  grms:{
+    txfee: 10000,
+    serverList: [
+    'electrum.grms.pw:17485:tcp',
+    'electrum1.grms.pw:17485:tcp',
+    'electrum2.grms.pw:17485:tcp',
+  ],
 };
 
 module.exports = electrumServers;
